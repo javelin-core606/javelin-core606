@@ -1,5 +1,6 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/4388f6b0-f2f5-44ec-902a-fc89c4f66052" alt="javelin606" /> </p>
+![Javelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelin-core606&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javelin-core606&theme=tokyonight&layout=compact)
 
 <h1 align="center">Hi 👋, I'm talented full-stack developer</h1>
 <h3 align="center">A passionate full-stack developer</h3>
