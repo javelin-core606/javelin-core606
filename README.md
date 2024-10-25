@@ -1,4 +1,4 @@
-![Uploading github-header-image.png…]()
+<p align="center"> <img src="https://github.com/user-attachments/assets/ac0d1c98-a852-46ce-9297-d16607ecb7b1" alt="javelin606" /> </p>
 <h1 align="center">Hi 👋, I'm talented full-stack developer</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
