@@ -1,4 +1,5 @@
-<p align="left"> <img src="D:\avatar\github-header-image.png" alt="javelin606" /> </p>
+<p align="left">![github-header-image](https://github.com/user-attachments/assets/8b3141a8-463b-4888-a41c-cb055f727e74) </p>
+
 <h1 align="center">Hi 👋, I'm talented full-stack developer</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
