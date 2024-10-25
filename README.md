@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/fd1aa93c-c62f-4940-aa8f-b4ca313f23d8" alt="javelin606" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/4388f6b0-f2f5-44ec-902a-fc89c4f66052" alt="javelin606" /> </p>
+
 
 <h1 align="center">Hi 👋, I'm talented full-stack developer</h1>
 <h3 align="center">A passionate full-stack developer</h3>
