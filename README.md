@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm talented full-stack developer</h1>
-<h3 align="center">A passionate full-stack developer</h3>
 
 ![Javelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelin-core606&show_icons=true&theme=radical) 
 
