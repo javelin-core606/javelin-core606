@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=68B587&lines=Hi+there!;I'm+Javelin+👋&center=true&size=30">
   </a>
 </h1>
+
 <h3 align="center">I'm a passionate Full Stack Developer</h3><br/>
 # 💫 About Me:
 🔭 I’m currently working as a full-stack JavaScript developer and freelancer.<br>👯 I’m looking to collaborate on Open Source Projects
