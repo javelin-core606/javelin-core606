@@ -1,4 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Javelin</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=68B587&lines=Hi+there!;I'm+Javelin+👋&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3><br/>
 # 💫 About Me:
 🔭 I’m currently working as a full-stack JavaScript developer and freelancer.<br>👯 I’m looking to collaborate on Open Source Projects
