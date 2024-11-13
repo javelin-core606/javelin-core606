@@ -3,9 +3,12 @@
 # 💫 About Me:
 🔭 I’m currently working as a full-stack JavaScript developer and freelancer.<br>👯 I’m looking to collaborate on Open Source Projects
 <br/>
-![Javelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelin-core606&show_icons=true&theme=radical) <br/>
+
+# 📊 Javelin's GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=javelin-core606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javelin-core606&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javelin-core606&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javelin-core606&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javelin606&label=Profile%20views&color=0e75b6&style=flat" alt="javelin606" /> </p>
 
