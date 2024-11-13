@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm talented full-stack developer</h1>
+# 💫 About Me:
+🔭 I’m currently working as a full-stack JavaScript developer and freelancer.<br>👯 I’m looking to collaborate on Open Source Projects
 
 ![Javelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=javelin-core606&show_icons=true&theme=radical) 
 
