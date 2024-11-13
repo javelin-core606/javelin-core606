@@ -10,9 +10,6 @@
 <br/>
 
 # 📊 Javelin's GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=javelin-core606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=javelin-core606&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javelin-core606&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=javelin-core606&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javelin-core606&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=6">
